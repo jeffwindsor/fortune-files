@@ -433,7 +433,7 @@ When I look inside and see that I am nothing, that is wisdom. When I look outsid
 When I was a child my mother said to me, ‘If you become a soldier, you’ll be a general. If you become a monk, you’ll be the pope.’ Instead I became a painter and wound up as Picasso. ~Pablo Picasso
 When a professor insists computer science is X but not Y, have compassion for his graduate students. ~Alan J. Perlis
 When in doubt, choose change. ~Lily Leung
-When it comes to health and well-being, regular exercise is about as close to a magic potion as you can get. ~Thich Nhat Hanh 
+When it comes to health and well-being, regular exercise is about as close to a magic potion as you can get. ~Thich Nhat Hanh
 When nothing is going right, go left ~Unknown
 When someone says I want a programming language in which I need only say what I wish done, give him a lollipop. ~Alan J. Perlis
 When we are no longer able to change a situation, we are challenged to change ourselves. ~Viktor Frankl
@@ -490,3 +490,4 @@ remember that not getting what you want is sometimes a wonderful stroke of luck.
 when you come to a fork in the road, take it ~yogi berra
 you can observe a lot by just watching ~yogi berra
 γνωθι σεαυτόν [Know Thyself] ~Inscription at Temple of Apollo at Adelphi
+If the doors of perception were cleansed every thing would appear to man as it is, Infinite.  ~William Blake
